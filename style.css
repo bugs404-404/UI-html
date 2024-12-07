@@ -1,0 +1,101 @@
+body
+{
+    margin: center;
+    padding: 100px;
+    font-family: sans-serif;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    background-color: #DEEBF7;
+    justify-content: center;
+
+}
+.sign-up-form
+{
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 10px 0px 0px #fff;
+    height: 350px;
+
+  
+}
+.input-box
+{
+    border-radius: none;
+    padding: 10px;
+    margin: 10px;
+    width: 20px 0;
+    border: 1px solid #999;
+    outline: none;
+}
+button
+{
+    color: #fff;
+    width: 250px;
+    padding: 10px;
+    border-radius: none;
+    font-size: 15px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 20px;
+   
+}
+.signup-btn
+{
+    background-color: #00B050;
+    transition: opacity 0.15s;
+}
+.signup-btn:hover{
+    opacity: 0.8;
+}
+.side-button
+{
+    background-color: #00B050;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff
+}
+
+.the-side-form{
+    width: 300px;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #00B050;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.main-container{
+    display: flex 
+}
+a
+{
+    margin-left: 20px;
+    font-size: 10px;
+}
+h1{
+    color: #00B050;
+    font-size: 20px;
+}
+.me
+{
+    font-size: 10px;
+    margin-right: 30px;
+}
+h2{
+    color: #fff;
+}
+.paragraph{
+    color: #fff;
+}
